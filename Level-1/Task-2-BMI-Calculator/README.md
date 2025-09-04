@@ -18,3 +18,6 @@ Task-2-BMI-Calculator/
    ```bash
    python3 bmi_calculator.py
 
+# Requirements
+Python 3.x
+
