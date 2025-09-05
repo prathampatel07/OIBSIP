@@ -1,23 +1,23 @@
 # OIBSIP
 Oasis Infobyte Internship Projects
-# 🌟 OIBSIP - Oasis Infobyte Internship
+# OIBSIP - Oasis Infobyte Internship
 
 This repository contains all my internship tasks completed during the **AICTE Oasis Infobyte Internship (Sept - Oct 2025)**.
 
 ---
 
-## 📅 Internship Details
+##  Internship Details
 - **Batch Start Date:** 5th Sept 2025  
 - **Submission Deadline:** 15th Oct 2025  
 - **Domain:** [Python Programming]  
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ---
 
-## ✅ Completed Tasks Progress
+##  Completed Tasks Progress
 - **Level-1**
   - Task-1: [Task Name] (✔ Completed / ❌ Pending)
   - Task-2: [Task Name]
@@ -29,12 +29,12 @@ This repository contains all my internship tasks completed during the **AICTE Oa
 
 ---
 
-## 🎥 Demonstration
+## Demonstration
 I will share task demo videos on **LinkedIn** and link them here.
 
 ---
 
-## 📌 Notes
+## Notes
 - This repository follows all internship guidelines.  
 - All tasks are **original & plagiarism-free**.  
 - For doubts/support: [Oasis Infobyte Telegram](https://t.me/oasisinfobyte)  
