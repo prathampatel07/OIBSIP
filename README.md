@@ -37,5 +37,5 @@ I will share task demo videos on **LinkedIn** and link them here.
 ## Notes
 - This repository follows all internship guidelines.  
 - All tasks are **original & plagiarism-free**.  
-- For doubts/support: [Oasis Infobyte Telegram](https://t.me/oasisinfobyte)  
+ 
 
