@@ -17,7 +17,7 @@ Task-2-BMI-Calculator/
 2. Run the script:  
    ```bash
    python3 bmi_calculator.py
+   
+## Requirements
 
-# Requirements
-Python 3.x
-
+Python 3.x   
